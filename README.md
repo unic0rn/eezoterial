@@ -28,7 +28,7 @@ eezoterial palette:
 
 #### screenshots ####
 
-Vim with solarized theme, running on eezoterial palette.
+Vim with solarized theme, running on eezoterial palette:
 
 ![light](/images/eezoterial_vim_light.png?raw=true)
 
