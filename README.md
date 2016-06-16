@@ -20,6 +20,7 @@ I also happen to like Google's [material palette] (<https://material.google.com/
 
 solarized palette:
 ![solarized](/images/base16_solarized.png?raw=true)
+
 eezoterial palette:
 ![eezoterial](/images/base16_eezoterial.png?raw=true)
 
@@ -28,4 +29,5 @@ eezoterial palette:
 Vim with solarized theme, running on eezoterial palette.
 
 ![light](/images/eezoterial_vim_light.png?raw=true)
+
 ![dark](/images/eezoterial_vim_dark.png?raw=true)
