@@ -7,7 +7,7 @@ First of all, this is a theme for [Secure Shell] (<https://chrome.google.com/web
 
 #### installation ####
 
-In case of Secure Shell extension, backup settings, paste secure_shell.json contents into the backup, restore backup.
+In case of Secure Shell extension, simply restore backup settings from secure_shell.json - it'll only change the colors, leaving everything else untouched.
 In case of any other terminal emulator, if there's no ready to use config file in this repo, just open secure_shell.json and copy-paste the color values, the order is pretty standard (black, red, green, yellow, blue, magenta, cyan, white, bright versions).
 
 #### rationale ####
