@@ -14,14 +14,16 @@ In case of any other terminal emulator, if there's no ready to use config file i
 
 I admire solarized theme, I really do. The amount of work that went into it, the readability it provides, it's all great. Except for one little detail: I just can't stand those colors in the long run. Even worse, I can't stand the light background it uses - it makes me wonder if I should get a latte or expect a sandstorm. Call it a personal preference, for me it's just too warm for a task like coding.
 
-So i've decided to abuse it. The idea is simple: almost everything has a solarized theme (vim, vim-airline and so on). Also, everything that uses solarized theme under a terminal, should use the base16 colors. Change terminal palette to something that at least remotely tries to follow the way solarized palette was built - everything should look properly while using solarized theme, it'll just look different.
+So I've decided to abuse it. The idea is simple: almost everything has a solarized theme (vim, vim-airline and so on). Also, everything that uses solarized theme under a terminal, should use the base16 colors defined by the solarized palette. Change terminal palette to something that at least remotely tries to follow the way solarized palette was built - everything should look properly while using solarized theme, it'll just look different.
 
 I also happen to like Google's [material palette] (<https://material.google.com/style/color.html#color-color-palette>), so I've used it (with the exception of darkest indigo and purple - I've made those even darker than their 900 variants). The cherry on top of the cake is the choice of indigo and purple for bright black and white/black and white, respectively (there's more purple, actually, and way more indigo), because those are the two most characteristic colors in the Mass Effect trilogy. Of course, I went mostly with their muted tones, because this is supposed to be low contrast theme, not something that will make your eyes bleed. Still, it sets the tone.
 
 solarized palette:
+
 ![solarized](/images/base16_solarized.png?raw=true)
 
 eezoterial palette:
+
 ![eezoterial](/images/base16_eezoterial.png?raw=true)
 
 #### screenshots ####
