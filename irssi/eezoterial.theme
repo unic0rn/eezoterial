@@ -377,7 +377,7 @@ abstracts = {
 
 formats = {
   "fe-common/core" = {
-    daychange = "        %R%_date%M|%_ %Y%%F";
+    daychange = "               %R%_date%M|%_ %Y%%F";
     own_msg = "{ownmsgnick $2 {ownnick $[-12]0}}$1";
     own_msg_channel = "{ownmsgnick $3 {ownnick $[-12]0}{msgchannel $1}}$2";
     pubmsg_me = "{pubmsgmenick $2 {menick $[-12]0}}$1";
