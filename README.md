@@ -3,17 +3,17 @@
 eezoterial theme
 ================
 
-#### About ####
+## About ##
 
 First of all, this is a theme for [Secure Shell](<https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo>) extension for Google Chrome. Porting it to any other terminal emulator shouldn't be a problem, I just didn't bother because that's what I'm using. If you'll port it to anything else - feel free to send me a pull request.
 
-#### Installation ####
+## Installation ##
 
 In case of Secure Shell extension, simply restore backup settings from secure_shell.json - it'll only change the colors, leaving everything else untouched.
 
 In case of any other terminal emulator, if there's no ready to use config file in this repo, just open secure_shell.json and copy-paste the color values, the order is pretty standard (black, red, green, yellow, blue, magenta, cyan, white, bright versions).
 
-#### Rationale ####
+## Rationale ##
 
 I admire solarized theme, I really do. The amount of work that went into it, the readability it provides, it's all great. Except for one little detail: I just can't stand those colors in the long run. Even worse, I can't stand the light background it uses - it makes me wonder if I should get a latte or expect a sandstorm. Call it a personal preference, for me it's just too warm for a task like coding.
 
@@ -29,7 +29,7 @@ eezoterial palette:
 
 ![eezoterial](/images/base16_eezoterial.png?raw=true)
 
-#### Screenshots ####
+## Screenshots ##
 
 Vim with solarized theme, running on eezoterial palette:
 
