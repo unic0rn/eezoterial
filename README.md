@@ -5,13 +5,15 @@ eezoterial theme
 
 ## About ##
 
-First of all, this is a theme for [Secure Shell](<https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo>) extension for Google Chrome. Porting it to any other terminal emulator shouldn't be a problem, I just didn't bother because that's what I'm using. If you'll port it to anything else - feel free to send me a pull request.
+First of all, this is a theme for [Mintty](<http://mintty.github.io/>) and [Secure Shell](<https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo>) extension for Google Chrome. Porting it to any other terminal emulator shouldn't be a problem, I just didn't bother. If you'll port it to anything else - feel free to send me a pull request. Matching Irssi theme is a bonus.
 
 ## Installation ##
 
+In case of Mintty, use provided .minttyrc, then configure the rest as needed.
+
 In case of Secure Shell extension, simply restore backup settings from secure_shell.json - it'll only change the colors, leaving everything else untouched.
 
-In case of any other terminal emulator, if there's no ready to use config file in this repo, just open secure_shell.json and copy-paste the color values, the order is pretty standard (black, red, green, yellow, blue, magenta, cyan, white, bright versions).
+In case of any other terminal emulator, if there's no ready to use config file in this repo, just open .minttyrc/secure_shell.json and copy-paste the color values, the order in secure_shell files is pretty standard (black, red, green, yellow, blue, magenta, cyan, white, bright versions).
 
 ## Rationale ##
 
