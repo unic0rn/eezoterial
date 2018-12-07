@@ -1,0 +1,45 @@
+{
+    "name": "theme-eezoterial",
+    "displayName": "eezoterial theme",
+    "description": "eezoterial theme for Visual Studio Code",
+    "version": "0.0.0",
+    "publisher": "unic0rn",
+    "author": {
+        "name": "unic0rn"
+    },
+    "keywords": [
+        "dark",
+        "light"
+    ],
+    "engines": { "vscode": "^1.12.0" },
+    "icon": "eezo.png",
+    "galleryBanner": {
+        "color": "#260A47",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unic0rn/eezoterial"
+    },
+    "bugs": {
+        "url": "https://github.com/unic0rn/eezoterial/issues"
+    },
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "eezoterial light",
+                "uiTheme": "vs",
+                "path": "./themes/eezoterial-light.json"
+            },
+            {
+                "label": "eezoterial dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eezoterial-dark.json"
+            }
+        ]
+    }
+}

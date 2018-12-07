@@ -21,7 +21,7 @@ proc parse {buf} {
         puts -nonewline $::out $buf
         return
     }
-    if {[string index $buf [expr $ptr+4]] eq {"}} {
+    if {[string index $buf [expr $ptr+4]] eq "\""} {
         set len 3
     } else {
         set len 6
