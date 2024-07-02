@@ -1,3 +1,5 @@
+# _[moved to upvar.fun/eezoterial](https://upvar.fun/eezoterial)_ #
+
 eezoterial theme
 ================
 
